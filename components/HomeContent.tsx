@@ -433,10 +433,10 @@ export default function HomeContent() {
                   <span className="inline-block ml-1.5 group-hover:translate-x-1 transition-transform">→</span>
                 </Link>
                 <Link
-                  href="/custom-printing"
+                  href="/contact"
                   className="px-8 py-4 bg-white text-ink font-heading font-semibold text-lg rounded-lg hover:bg-gray-50 transition-all border-2 border-gray-400 hover:border-brand-orange shadow-md hover:shadow-lg"
                 >
-                  Custom Print
+                  Get Quote
                 </Link>
               </div>
 
@@ -444,15 +444,15 @@ export default function HomeContent() {
               <div className="flex flex-wrap items-center justify-center gap-4 pt-4 text-xs text-ink-muted font-medium">
                 <div className="flex items-center gap-1.5">
                   <Truck className="w-4 h-4 text-ink" />
-                  <span>Fast Shipping</span>
+                  <span>Free Shipping</span>
                 </div>
                 <div className="flex items-center gap-1.5">
                   <Package className="w-4 h-4 text-ink" />
                   <span>Wholesale Pricing</span>
                 </div>
                 <div className="flex items-center gap-1.5">
-                  <Leaf className="w-4 h-4 text-ink" />
-                  <span>Eco Options</span>
+                  <Sparkles className="w-4 h-4 text-ink" />
+                  <span>Energy Efficient</span>
                 </div>
               </div>
             </div>
@@ -529,41 +529,41 @@ export default function HomeContent() {
                 <Package className="w-6 h-6 text-white" />
               </div>
               <h3 className="text-lg font-heading font-bold text-ink mb-2">Wholesale Pricing</h3>
-              <p className="text-ink-muted text-sm leading-relaxed">Volume discounts and bulk ordering with transparent, competitive pricing on all supplies.</p>
+              <p className="text-ink-muted text-sm leading-relaxed">Commercial-grade equipment at wholesale prices with volume discounts for multi-location operators.</p>
             </div>
             <div className="group p-6 bg-white rounded-2xl border border-gray-200 hover:border-orange-400 hover:shadow-md transition-all">
               <div className="w-12 h-12 bg-brand-orange rounded-xl flex items-center justify-center mb-3 group-hover:scale-110 transition-transform shadow-md">
-                <Palette className="w-6 h-6 text-white" />
+                <Sparkles className="w-6 h-6 text-white" />
               </div>
-              <h3 className="text-lg font-heading font-bold text-ink mb-2">Custom Branding</h3>
-              <p className="text-ink-muted text-sm leading-relaxed">In-house design and production for branded cups, napkins, takeout boxes, and bags.</p>
+              <h3 className="text-lg font-heading font-bold text-ink mb-2">NSF Certified</h3>
+              <p className="text-ink-muted text-sm leading-relaxed">All equipment meets NSF and UL safety standards for commercial kitchen use.</p>
             </div>
             <div className="group p-6 bg-white rounded-2xl border border-gray-200 hover:border-green-400 hover:shadow-md transition-all">
               <div className="w-12 h-12 bg-green-500 rounded-xl flex items-center justify-center mb-3 group-hover:scale-110 transition-transform shadow-md">
                 <Leaf className="w-6 h-6 text-white" />
               </div>
-              <h3 className="text-lg font-heading font-bold text-ink mb-2">Eco-Friendly Options</h3>
-              <p className="text-ink-muted text-sm leading-relaxed">Compostable and sustainable supplies that don't compromise on quality or performance.</p>
+              <h3 className="text-lg font-heading font-bold text-ink mb-2">Energy Star Rated</h3>
+              <p className="text-ink-muted text-sm leading-relaxed">Eco-friendly equipment that reduces energy costs and environmental impact.</p>
             </div>
             <div className="group p-6 bg-white rounded-2xl border border-gray-200 hover:border-blue-400 hover:shadow-md transition-all">
               <div className="w-12 h-12 bg-blue-500 rounded-xl flex items-center justify-center mb-3 group-hover:scale-110 transition-transform shadow-md">
                 <Truck className="w-6 h-6 text-white" />
               </div>
-              <h3 className="text-lg font-heading font-bold text-ink mb-2">Fast Nationwide Shipping</h3>
-              <p className="text-ink-muted text-sm leading-relaxed">Quick delivery across the US, with same-day options available in Los Angeles.</p>
+              <h3 className="text-lg font-heading font-bold text-ink mb-2">Free Shipping</h3>
+              <p className="text-ink-muted text-sm leading-relaxed">Free freight shipping on most equipment orders nationwide with white-glove delivery available.</p>
             </div>
           </div>
 
           {/* Text Content */}
           <div className="prose prose-sm max-w-none text-ink-muted bg-white rounded-xl p-6 shadow-md border border-gray-200">
             <p className="mb-4 text-sm">
-              <strong className="text-ink">Restaurant Supplies Direct</strong> makes premium hospitality packaging and <strong className="text-ink">wholesale restaurant supplies</strong> accessible to every operator. Whether you're running an independent cafe, food truck, or multi-location restaurant group, we deliver the same quality supplies trusted by leading hospitality brands — at prices that make sense for your business.
+              <strong className="text-ink">Restaurant Equipment Direct</strong> delivers commercial kitchen equipment and <strong className="text-ink">restaurant smallwares</strong> at wholesale prices. Whether you're equipping a new restaurant, upgrading your kitchen, or managing equipment for multiple locations, we provide the same commercial-grade equipment trusted by leading restaurants — at prices that work for your business.
             </p>
             <p className="mb-4 text-sm">
-              From <Link href="/takeout-containers" className="text-blue-600 hover:text-blue-700 underline font-semibold">takeout containers wholesale</Link> to <Link href="/custom-printing" className="text-blue-600 hover:text-blue-700 underline font-semibold">custom printed packaging</Link>, we ship directly from the source. No middlemen. No retail markups. Just quality restaurant disposables, fast shipping, and transparent pricing.
+              From <Link href="/cooking-equipment" className="text-blue-600 hover:text-blue-700 underline font-semibold">ranges and ovens</Link> to <Link href="/refrigeration" className="text-blue-600 hover:text-blue-700 underline font-semibold">commercial refrigeration</Link>, we ship directly from manufacturers. No middlemen. No retail markups. Just quality restaurant equipment, free shipping, and transparent wholesale pricing.
             </p>
             <p className="text-sm">
-              Need <Link href="/eco-friendly" className="text-blue-600 hover:text-blue-700 underline font-semibold">eco-friendly supplies</Link>? We carry the largest selection of compostable takeout containers, sustainable packaging, and recyclable disposables. Looking for branded packaging? Our <Link href="/custom-printing" className="text-blue-600 hover:text-blue-700 underline font-semibold">in-house design team</Link> can create custom printed cups, napkins, and boxes that make your brand stand out.
+              Need <Link href="/prep-tables" className="text-blue-600 hover:text-blue-700 underline font-semibold">prep tables and work stations</Link>? We carry NSF-certified stainless steel equipment built for commercial use. Looking for <Link href="/smallwares" className="text-blue-600 hover:text-blue-700 underline font-semibold">kitchen smallwares</Link>? We stock everything from cookware and utensils to food storage and serving equipment.
             </p>
           </div>
         </div>
@@ -582,12 +582,12 @@ export default function HomeContent() {
           </div>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
             {[
-              { name: "Takeout Containers", href: "/takeout-containers", Icon: Box, bgColor: "bg-white", iconBgColor: "bg-orange-600", borderColor: "hover:border-brand-orange", count: "500+" },
-              { name: "Cups & Lids", href: "/cups-and-lids", Icon: Coffee, bgColor: "bg-white", iconBgColor: "bg-amber-600", borderColor: "hover:border-amber-500", count: "300+" },
-              { name: "Napkins & Towels", href: "/napkins-and-towels", Icon: FileText, bgColor: "bg-white", iconBgColor: "bg-blue-600", borderColor: "hover:border-blue-500", count: "200+" },
-              { name: "Gloves & Bags", href: "/gloves-and-bags", Icon: ShoppingBag, bgColor: "bg-white", iconBgColor: "bg-purple-600", borderColor: "hover:border-purple-500", count: "150+" },
-              { name: "Tabletop & To-Go", href: "/tabletop", Icon: Utensils, bgColor: "bg-white", iconBgColor: "bg-gray-700", borderColor: "hover:border-gray-500", count: "250+" },
-              { name: "Eco-Friendly", href: "/eco-friendly", Icon: Sparkles, bgColor: "bg-white", iconBgColor: "bg-green-600", borderColor: "hover:border-green-500", count: "180+" },
+              { name: "Cooking Equipment", href: "/cooking-equipment", Icon: Package, bgColor: "bg-white", iconBgColor: "bg-orange-600", borderColor: "hover:border-brand-orange", count: "200+" },
+              { name: "Refrigeration", href: "/refrigeration", Icon: Box, bgColor: "bg-white", iconBgColor: "bg-blue-600", borderColor: "hover:border-blue-500", count: "150+" },
+              { name: "Prep Tables", href: "/prep-tables", Icon: FileText, bgColor: "bg-white", iconBgColor: "bg-gray-700", borderColor: "hover:border-gray-500", count: "100+" },
+              { name: "Smallwares", href: "/smallwares", Icon: Utensils, bgColor: "bg-white", iconBgColor: "bg-purple-600", borderColor: "hover:border-purple-500", count: "500+" },
+              { name: "Food Storage", href: "/food-storage", Icon: ShoppingBag, bgColor: "bg-white", iconBgColor: "bg-amber-600", borderColor: "hover:border-amber-500", count: "300+" },
+              { name: "Warewashing", href: "/warewashing", Icon: Sparkles, bgColor: "bg-white", iconBgColor: "bg-green-600", borderColor: "hover:border-green-500", count: "80+" },
             ].map((category) => (
               <Link
                 key={category.href}
