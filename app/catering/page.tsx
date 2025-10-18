@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 import { Users, Package, DollarSign, Truck, Award, CheckCircle, Clock } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Catering Supplies: Bulk Disposables for Events | Restaurant Supplies Direct",
+  title: "Catering Supplies: Bulk Disposables for Events | Restaurant Equipment Direct",
   description: "Bulk catering supplies for weddings, corporate events, and large gatherings. Plates, bowls, cutlery, and serving supplies at wholesale prices. Fast delivery.",
   keywords: ["catering supplies", "bulk disposables", "event supplies", "wedding disposables", "corporate catering supplies", "party supplies bulk"],
 };

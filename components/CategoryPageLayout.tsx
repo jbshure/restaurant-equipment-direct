@@ -38,13 +38,13 @@ export default function CategoryPageLayout({
           <Link href="/" className="flex items-center gap-3">
             <Image
               src="/logo-icon.svg"
-              alt="Restaurant Supplies Direct"
+              alt="Restaurant Equipment Direct"
               width={48}
               height={48}
               priority
             />
             <span className="text-xl sm:text-2xl font-heading font-bold text-ink leading-heading">
-              Restaurant Supplies Direct
+              Restaurant Equipment Direct
             </span>
           </Link>
 

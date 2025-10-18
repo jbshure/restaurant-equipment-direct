@@ -3,8 +3,8 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Restaurant Supplies Direct",
-  description: "Privacy Policy for Restaurant Supplies Direct. Learn how we collect, use, and protect your personal information.",
+  title: "Privacy Policy | Restaurant Equipment Direct",
+  description: "Privacy Policy for Restaurant Equipment Direct. Learn how we collect, use, and protect your personal information.",
 };
 
 export default function PrivacyPage() {
@@ -31,7 +31,7 @@ export default function PrivacyPage() {
             <section>
               <h2 className="text-2xl font-heading font-bold text-orange-600 mb-3">Introduction</h2>
               <p>
-                Restaurant Supplies Direct ("we," "our," or "us") respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or make a purchase from us.
+                Restaurant Equipment Direct ("we," "our," or "us") respects your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or make a purchase from us.
               </p>
             </section>
 

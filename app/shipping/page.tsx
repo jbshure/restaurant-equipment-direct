@@ -4,7 +4,7 @@ import Footer from "@/components/Footer";
 import { Package, Truck, Clock, MapPin, DollarSign, CheckCircle } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Shipping Policy | Restaurant Supplies Direct",
+  title: "Shipping Policy | Restaurant Equipment Direct",
   description: "Learn about our shipping rates, delivery times, and policies. Fast, reliable shipping from Los Angeles to your door.",
 };
 

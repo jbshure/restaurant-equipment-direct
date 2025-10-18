@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: "Restaurant Napkins & Paper Towels Wholesale",
     description: "Wholesale napkins and paper towels. Bulk pricing and custom printing available.",
     type: "website",
-    siteName: "Restaurant Supplies Direct",
+    siteName: "Restaurant Equipment Direct",
   },
   twitter: {
     card: "summary_large_image",
@@ -114,7 +114,7 @@ export default function NapkinsAndTowelsPage() {
         {/* SEO Content Block */}
         <div className="prose prose-lg max-w-none mb-12">
           <h2 className="text-3xl font-heading font-bold text-ink mb-4">
-            Why Choose Restaurant Supplies Direct for Wholesale Napkins?
+            Why Choose Restaurant Equipment Direct for Wholesale Napkins?
           </h2>
           <p className="text-ink-muted mb-6">
             Every restaurant needs reliable <strong>restaurant napkins wholesale</strong> and <strong>paper napkins bulk</strong> suppliers. Whether you need <strong>beverage napkins</strong> for your bar, <strong>dinner napkins</strong> for table service, or <strong>custom printed napkins</strong> with your logo, we provide quality products at wholesale prices.

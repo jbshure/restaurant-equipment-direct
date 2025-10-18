@@ -4,7 +4,7 @@ import Footer from "@/components/Footer";
 import { RefreshCw, PackageCheck, AlertCircle, Clock, Mail } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Returns & Refunds Policy | Restaurant Supplies Direct",
+  title: "Returns & Refunds Policy | Restaurant Equipment Direct",
   description: "Learn about our returns, refunds, and exchange policy. We stand behind our products with a satisfaction guarantee.",
 };
 

@@ -1,7 +1,7 @@
 import { ImageResponse } from 'next/og'
 
 export const runtime = 'edge'
-export const alt = 'Restaurant Supplies Direct'
+export const alt = 'Restaurant Equipment Direct'
 export const size = {
   width: 1200,
   height: 630,
@@ -33,7 +33,7 @@ export default async function Image() {
             letterSpacing: '-0.02em',
           }}
         >
-          Restaurant Supplies Direct
+          Restaurant Equipment Direct
         </div>
         <div
           style={{

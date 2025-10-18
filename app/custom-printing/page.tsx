@@ -5,7 +5,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Custom Printed Packaging | Branded Cups & Napkins | Restaurant Supplies Direct",
+  title: "Custom Printed Packaging | Branded Cups & Napkins | Restaurant Equipment Direct",
   description: "Custom printing for restaurant packaging - branded cups, napkins, takeout boxes, and bags. In-house design, fast turnaround, and wholesale pricing. Powered by Shure Hospitality Wholesale.",
   keywords: [
     "custom printed packaging",
@@ -18,14 +18,14 @@ export const metadata: Metadata = {
     "custom food packaging",
   ],
   openGraph: {
-    title: "Custom Printed Packaging | Restaurant Supplies Direct",
+    title: "Custom Printed Packaging | Restaurant Equipment Direct",
     description: "Turn your packaging into a marketing tool with custom printed cups, napkins, and takeout boxes.",
     type: "website",
-    siteName: "Restaurant Supplies Direct",
+    siteName: "Restaurant Equipment Direct",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Custom Printed Packaging | Restaurant Supplies Direct",
+    title: "Custom Printed Packaging | Restaurant Equipment Direct",
     description: "Custom printed cups, napkins, and takeout boxes for restaurants.",
   },
   alternates: {
@@ -236,7 +236,7 @@ export default function CustomPrintingPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl sm:text-4xl font-heading font-bold text-ink mb-6">
-                Why Custom Print with Restaurant Supplies Direct?
+                Why Custom Print with Restaurant Equipment Direct?
               </h2>
               <div className="space-y-6">
                 <div className="flex gap-4">

@@ -25,8 +25,8 @@ const patrickHand = Patrick_Hand({
 
 export const metadata: Metadata = {
   title: {
-    default: "Restaurant Supplies Direct | Wholesale Disposables & Custom Packaging",
-    template: "%s | Restaurant Supplies Direct"
+    default: "Restaurant Equipment Direct | Wholesale Disposables & Custom Packaging",
+    template: "%s | Restaurant Equipment Direct"
   },
   description: "Wholesale restaurant disposables, takeout containers, and custom printed packaging shipped direct from Los Angeles. Bulk pricing, fast nationwide delivery, and custom branding for restaurants and food service businesses.",
   keywords: ["restaurant supplies direct", "wholesale restaurant packaging", "restaurant disposables online", "takeout containers", "custom printed packaging", "bulk restaurant supplies", "food service disposables"],
@@ -46,16 +46,16 @@ export const metadata: Metadata = {
     ],
   },
   openGraph: {
-    title: "Restaurant Supplies Direct | Wholesale Disposables & Custom Packaging",
+    title: "Restaurant Equipment Direct | Wholesale Disposables & Custom Packaging",
     description: "Wholesale restaurant disposables and custom printed packaging shipped direct from Los Angeles. Bulk pricing and fast nationwide delivery.",
     type: "website",
-    siteName: "Restaurant Supplies Direct",
+    siteName: "Restaurant Equipment Direct",
     locale: "en_US",
     url: "https://restaurantsuppliesdirect.com",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Restaurant Supplies Direct | Wholesale Disposables & Custom Packaging",
+    title: "Restaurant Equipment Direct | Wholesale Disposables & Custom Packaging",
     description: "Wholesale restaurant disposables and custom printed packaging shipped direct from Los Angeles.",
   },
   robots: {

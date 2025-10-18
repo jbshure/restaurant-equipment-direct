@@ -71,13 +71,13 @@ export default function HomeContent() {
           <Link href="/" className="flex items-center gap-2">
             <Image
               src="/logo-icon.svg"
-              alt="Restaurant Supplies Direct"
+              alt="Restaurant Equipment Direct"
               width={40}
               height={40}
               priority
             />
             <h2 className="text-lg sm:text-xl font-heading font-bold text-ink">
-              Restaurant Supplies Direct
+              Restaurant Equipment Direct
             </h2>
           </Link>
 
@@ -859,7 +859,7 @@ export default function HomeContent() {
             {/* Us column */}
             <div className="space-y-4">
               <div className="text-center mb-6">
-                <h3 className="text-xl font-heading font-bold text-black">Restaurant Supplies Direct</h3>
+                <h3 className="text-xl font-heading font-bold text-black">Restaurant Equipment Direct</h3>
               </div>
               <div className="bg-green-50 p-5 rounded-xl border-l-4 border-green-400 shadow-sm">
                 <p className="text-sm font-semibold text-ink">✓ Curated disposables selection—no clutter</p>

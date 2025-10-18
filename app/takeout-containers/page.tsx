@@ -3,7 +3,7 @@ import CategoryPageLayout from "@/components/CategoryPageLayout";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Takeout Containers Wholesale | To-Go Boxes | Restaurant Supplies Direct",
+  title: "Takeout Containers Wholesale | To-Go Boxes | Restaurant Equipment Direct",
   description: "Wholesale takeout containers, to-go boxes, paper food containers, and plastic deli containers. Bulk pricing, custom printing, and fast shipping for restaurants.",
   keywords: [
     "takeout containers wholesale",
@@ -16,14 +16,14 @@ export const metadata: Metadata = {
     "disposable food containers",
   ],
   openGraph: {
-    title: "Takeout Containers Wholesale | Restaurant Supplies Direct",
+    title: "Takeout Containers Wholesale | Restaurant Equipment Direct",
     description: "Wholesale takeout containers and to-go boxes. Bulk pricing and custom printing available.",
     type: "website",
-    siteName: "Restaurant Supplies Direct",
+    siteName: "Restaurant Equipment Direct",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Takeout Containers Wholesale | Restaurant Supplies Direct",
+    title: "Takeout Containers Wholesale | Restaurant Equipment Direct",
     description: "Wholesale takeout containers and to-go boxes with bulk pricing.",
   },
   alternates: {
@@ -96,7 +96,7 @@ export default function TakeoutContainersPage() {
       {/* SEO Content Block */}
       <div className="prose prose-lg max-w-none mb-12">
         <h2 className="text-3xl font-heading font-bold text-ink mb-4">
-          Why Choose Restaurant Supplies Direct for Takeout Containers?
+          Why Choose Restaurant Equipment Direct for Takeout Containers?
         </h2>
         <p className="text-ink-muted mb-6">
           Finding the right <strong>takeout containers wholesale</strong> supplier shouldn't be complicated. Whether you're a fast-casual restaurant, food truck, or catering operation, we provide high-quality <strong>to-go boxes</strong> and <strong>food containers</strong> that keep your food fresh and your brand looking professional.

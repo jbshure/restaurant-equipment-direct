@@ -1,4 +1,4 @@
-# Restaurant Supplies Direct - Comprehensive Site Audit
+# Restaurant Equipment Direct - Comprehensive Site Audit
 
 **Date:** 2025-10-12
 **Scope:** UX, SEO, Brand Consistency, Modern Design for Millennial/Gen-Z audience

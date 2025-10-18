@@ -5,8 +5,8 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Restaurant Supplies Direct vs WebstaurantStore: Honest Comparison 2025 | RSD Blog",
-  description: "Detailed comparison of Restaurant Supplies Direct vs WebstaurantStore for restaurant disposables. Compare pricing, shipping, service, and specialization.",
+  title: "Restaurant Equipment Direct vs WebstaurantStore: Honest Comparison 2025 | RSD Blog",
+  description: "Detailed comparison of Restaurant Equipment Direct vs WebstaurantStore for restaurant disposables. Compare pricing, shipping, service, and specialization.",
   keywords: ["restaurant supplies direct vs webstaurantstore", "webstaurantstore alternative", "restaurant supplies comparison", "best restaurant supplier", "webstaurantstore competitor"],
 };
 
@@ -31,7 +31,7 @@ export default function RSDvsWebstaurantStore() {
               <span>11 min read</span>
             </div>
             <h1 className="text-3xl sm:text-4xl font-heading font-bold text-ink mb-4 leading-tight">
-              Restaurant Supplies Direct vs WebstaurantStore: The Honest Comparison
+              Restaurant Equipment Direct vs WebstaurantStore: The Honest Comparison
             </h1>
             <p className="text-lg text-ink-muted">
               A detailed, unbiased comparison of two restaurant supply approaches: specialized disposables expert vs. broad marketplace. Find the best fit for your business.
@@ -54,7 +54,7 @@ export default function RSDvsWebstaurantStore() {
             <section>
               <h2 className="text-2xl font-heading font-bold text-ink mb-3">The Upfront Answer</h2>
               <p>
-                Let's be honest from the start: WebstaurantStore and Restaurant Supplies Direct serve different needs. WebstaurantStore is an enormous marketplace with 463,000+ products including heavy equipment, furniture, and everything in between. Restaurant Supplies Direct specializes exclusively in disposables and packaging.
+                Let's be honest from the start: WebstaurantStore and Restaurant Equipment Direct serve different needs. WebstaurantStore is an enormous marketplace with 463,000+ products including heavy equipment, furniture, and everything in between. Restaurant Equipment Direct specializes exclusively in disposables and packaging.
               </p>
               <p>
                 This isn't about which is "better"—it's about which fits your specific needs. If you're buying a walk-in cooler and spatulas in the same order, WebstaurantStore makes sense. If you want expert guidance on choosing the right takeout containers with personalized service, that's where we excel.
@@ -69,7 +69,7 @@ export default function RSDvsWebstaurantStore() {
                     <tr>
                       <th className="px-4 py-3 text-left text-ink font-semibold">Factor</th>
                       <th className="px-4 py-3 text-left text-ink font-semibold">WebstaurantStore</th>
-                      <th className="px-4 py-3 text-left text-ink font-semibold">Restaurant Supplies Direct</th>
+                      <th className="px-4 py-3 text-left text-ink font-semibold">Restaurant Equipment Direct</th>
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-border">
@@ -132,7 +132,7 @@ export default function RSDvsWebstaurantStore() {
                 </ul>
               </div>
 
-              <h3 className="text-xl font-heading font-semibold text-ink mb-2 mt-6">Restaurant Supplies Direct: The Specialist Approach</h3>
+              <h3 className="text-xl font-heading font-semibold text-ink mb-2 mt-6">Restaurant Equipment Direct: The Specialist Approach</h3>
               <p>
                 We carry disposables and packaging only. No equipment, no furniture, no chef knives. This narrow focus means we know these products inside and out.
               </p>
@@ -310,7 +310,7 @@ export default function RSDvsWebstaurantStore() {
                 Broad product catalog serves all restaurant types but without specialized expertise in any particular niche.
               </p>
 
-              <h3 className="text-xl font-heading font-semibold text-ink mb-2 mt-6">Restaurant Supplies Direct</h3>
+              <h3 className="text-xl font-heading font-semibold text-ink mb-2 mt-6">Restaurant Equipment Direct</h3>
               <p>
                 We've created specific solutions for different restaurant types:
               </p>
@@ -340,9 +340,9 @@ export default function RSDvsWebstaurantStore() {
             </section>
 
             <section>
-              <h2 className="text-2xl font-heading font-bold text-ink mb-3">Who Should Choose Restaurant Supplies Direct?</h2>
+              <h2 className="text-2xl font-heading font-bold text-ink mb-3">Who Should Choose Restaurant Equipment Direct?</h2>
               <div className="bg-gray-50 p-6 rounded-xl border border-border my-4">
-                <p className="font-semibold text-ink mb-3">Restaurant Supplies Direct is ideal if you:</p>
+                <p className="font-semibold text-ink mb-3">Restaurant Equipment Direct is ideal if you:</p>
                 <ul className="list-disc pl-6 space-y-2">
                   <li>Want expert guidance on choosing the right disposables</li>
                   <li>Need custom branded packaging with design support</li>
@@ -363,7 +363,7 @@ export default function RSDvsWebstaurantStore() {
               </p>
               <ul className="list-disc pl-6 space-y-2 mt-3">
                 <li><strong>Buy equipment from WebstaurantStore:</strong> Refrigerators, ovens, prep tables—their strength</li>
-                <li><strong>Buy disposables from Restaurant Supplies Direct:</strong> Ongoing high-volume purchases where expertise and service matter</li>
+                <li><strong>Buy disposables from Restaurant Equipment Direct:</strong> Ongoing high-volume purchases where expertise and service matter</li>
               </ul>
               <p className="mt-4">
                 This hybrid approach gets you the convenience of WebstaurantStore's equipment selection with the specialized service and competitive disposables pricing from us.
@@ -396,7 +396,7 @@ export default function RSDvsWebstaurantStore() {
             <section>
               <h2 className="text-2xl font-heading font-bold text-ink mb-3">The Bottom Line</h2>
               <p>
-                WebstaurantStore and Restaurant Supplies Direct serve different needs, and both do it well. WebstaurantStore excels as a one-stop marketplace for restaurants building out or buying across many categories. Restaurant Supplies Direct excels as a disposables specialist providing expert guidance, personalized service, and competitive pricing.
+                WebstaurantStore and Restaurant Equipment Direct serve different needs, and both do it well. WebstaurantStore excels as a one-stop marketplace for restaurants building out or buying across many categories. Restaurant Equipment Direct excels as a disposables specialist providing expert guidance, personalized service, and competitive pricing.
               </p>
               <p className="mt-3">
                 <strong>Choose based on what matters most to you:</strong> If you value convenience of buying everything in one place, WebstaurantStore is great. If you value specialized expertise, personalized service, and building a relationship with your supplier, we're the better fit.

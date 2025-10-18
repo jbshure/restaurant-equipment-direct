@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 import { Coffee, Package, DollarSign, Truck, Award, CheckCircle } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Coffee Shop Supplies: Cups, Lids & Sleeves | Restaurant Supplies Direct",
+  title: "Coffee Shop Supplies: Cups, Lids & Sleeves | Restaurant Equipment Direct",
   description: "Premium coffee shop supplies including hot cups, cold cups, lids, sleeves, and branded packaging. Wholesale pricing for cafes and coffee shops. Free samples available.",
   keywords: ["coffee shop supplies", "coffee cups wholesale", "coffee cup lids", "cafe supplies", "branded coffee cups", "custom coffee sleeves", "disposable cups bulk"],
 };

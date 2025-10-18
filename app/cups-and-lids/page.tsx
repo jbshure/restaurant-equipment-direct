@@ -3,7 +3,7 @@ import CategoryPageLayout from "@/components/CategoryPageLayout";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Paper Cups & Lids Wholesale | Coffee Cups Bulk | Restaurant Supplies Direct",
+  title: "Paper Cups & Lids Wholesale | Coffee Cups Bulk | Restaurant Equipment Direct",
   description: "Wholesale paper cups, plastic cups, coffee cups, and lids for restaurants. Hot cups, cold cups, custom printing available. Bulk pricing and fast shipping.",
   keywords: [
     "paper cups wholesale",
@@ -16,14 +16,14 @@ export const metadata: Metadata = {
     "disposable cups bulk",
   ],
   openGraph: {
-    title: "Paper Cups & Lids Wholesale | Restaurant Supplies Direct",
+    title: "Paper Cups & Lids Wholesale | Restaurant Equipment Direct",
     description: "Wholesale paper cups, plastic cups, and lids. Bulk pricing and custom printing available.",
     type: "website",
-    siteName: "Restaurant Supplies Direct",
+    siteName: "Restaurant Equipment Direct",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Paper Cups & Lids Wholesale | Restaurant Supplies Direct",
+    title: "Paper Cups & Lids Wholesale | Restaurant Equipment Direct",
     description: "Wholesale cups and lids with bulk pricing and custom printing.",
   },
   alternates: {
@@ -114,7 +114,7 @@ export default function CupsAndLidsPage() {
         {/* SEO Content Block */}
         <div className="prose prose-lg max-w-none mb-12">
           <h2 className="text-3xl font-heading font-bold text-ink mb-4">
-            Why Choose Restaurant Supplies Direct for Wholesale Cups & Lids?
+            Why Choose Restaurant Equipment Direct for Wholesale Cups & Lids?
           </h2>
           <p className="text-ink-muted mb-6">
             Whether you're running a coffee shop, cafe, or restaurant, finding reliable <strong>paper cups wholesale</strong> and <strong>coffee cups bulk</strong> suppliers is essential. We provide high-quality <strong>disposable cups</strong> in every size and material — from insulated hot cups to clear cold drink cups — at wholesale prices with fast nationwide delivery.

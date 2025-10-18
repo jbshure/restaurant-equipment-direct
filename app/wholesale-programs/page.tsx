@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: "Wholesale Restaurant Supply Programs | Powered by Shure Hospitality Wholesale",
     description: "Wholesale pricing, bulk orders, and dedicated account management for restaurant groups. Custom packaging and nationwide delivery.",
     type: "website",
-    siteName: "Restaurant Supplies Direct",
+    siteName: "Restaurant Equipment Direct",
   },
   twitter: {
     card: "summary_large_image",
@@ -69,10 +69,10 @@ const faqSchema = {
     },
     {
       "@type": "Question",
-      "name": "What's the difference between Restaurant Supplies Direct and Shure Hospitality Wholesale?",
+      "name": "What's the difference between Restaurant Equipment Direct and Shure Hospitality Wholesale?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Restaurant Supplies Direct is powered by Shure Hospitality Wholesale. Small to medium accounts order through RSD for streamlined e-commerce. Large accounts and complex multi-location operations work directly with Shure HW for white-glove enterprise service."
+        "text": "Restaurant Equipment Direct is powered by Shure Hospitality Wholesale. Small to medium accounts order through RSD for streamlined e-commerce. Large accounts and complex multi-location operations work directly with Shure HW for white-glove enterprise service."
       }
     }
   ]
@@ -256,10 +256,10 @@ export default function WholesaleProgramsPage() {
             </div>
             <div className="bg-white p-6 rounded-lg border-2 border-border shadow-sm">
               <h3 className="text-lg font-heading font-semibold text-ink mb-2">
-                What's the difference between Restaurant Supplies Direct and Shure Hospitality Wholesale?
+                What's the difference between Restaurant Equipment Direct and Shure Hospitality Wholesale?
               </h3>
               <p className="text-ink-muted">
-                Restaurant Supplies Direct is powered by Shure Hospitality Wholesale. Small to medium accounts order through RSD for streamlined e-commerce. Large accounts and complex multi-location operations work directly with Shure HW for white-glove enterprise service.
+                Restaurant Equipment Direct is powered by Shure Hospitality Wholesale. Small to medium accounts order through RSD for streamlined e-commerce. Large accounts and complex multi-location operations work directly with Shure HW for white-glove enterprise service.
               </p>
             </div>
           </div>

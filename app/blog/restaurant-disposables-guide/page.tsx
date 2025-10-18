@@ -225,7 +225,7 @@ export default function RestaurantDisposablesGuide() {
                 <div>
                   <h4 className="font-semibold text-ink mb-2">5. Buy Direct from Wholesalers</h4>
                   <p>
-                    Eliminate middleman markups by purchasing directly from hospitality wholesalers like Restaurant Supplies Direct. Save 20-40% compared to restaurant supply stores.
+                    Eliminate middleman markups by purchasing directly from hospitality wholesalers like Restaurant Equipment Direct. Save 20-40% compared to restaurant supply stores.
                   </p>
                 </div>
               </div>

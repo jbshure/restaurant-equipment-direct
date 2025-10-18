@@ -36,7 +36,7 @@ export default function ProductSchema({
       "url": "https://www.restaurantsuppliesdirect.com/contact",
       "seller": {
         "@type": "Organization",
-        "name": "Restaurant Supplies Direct"
+        "name": "Restaurant Equipment Direct"
       }
     },
     ...(sku && { "sku": sku }),

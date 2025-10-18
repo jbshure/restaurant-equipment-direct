@@ -3,8 +3,8 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Terms of Service | Restaurant Supplies Direct",
-  description: "Terms of Service for Restaurant Supplies Direct. Review our terms and conditions for using our website and services.",
+  title: "Terms of Service | Restaurant Equipment Direct",
+  description: "Terms of Service for Restaurant Equipment Direct. Review our terms and conditions for using our website and services.",
 };
 
 export default function TermsPage() {
@@ -31,7 +31,7 @@ export default function TermsPage() {
             <section>
               <h2 className="text-2xl font-heading font-bold text-orange-600 mb-3">Agreement to Terms</h2>
               <p>
-                By accessing or using Restaurant Supplies Direct ("the Site"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.
+                By accessing or using Restaurant Equipment Direct ("the Site"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our services.
               </p>
             </section>
 
@@ -58,7 +58,7 @@ export default function TermsPage() {
             <section>
               <h2 className="text-2xl font-heading font-bold text-orange-600 mb-3">Orders and Pricing</h2>
               <p className="mb-3">
-                All orders are subject to acceptance by Restaurant Supplies Direct. We reserve the right to refuse or cancel any order for any reason, including:
+                All orders are subject to acceptance by Restaurant Equipment Direct. We reserve the right to refuse or cancel any order for any reason, including:
               </p>
               <ul className="list-disc pl-6 space-y-2">
                 <li>Product availability</li>
@@ -103,7 +103,7 @@ export default function TermsPage() {
             <section>
               <h2 className="text-2xl font-heading font-bold text-orange-600 mb-3">Intellectual Property</h2>
               <p>
-                All content on this site, including text, graphics, logos, images, and software, is owned by Restaurant Supplies Direct or its licensors and is protected by copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, or create derivative works without our express written permission.
+                All content on this site, including text, graphics, logos, images, and software, is owned by Restaurant Equipment Direct or its licensors and is protected by copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, or create derivative works without our express written permission.
               </p>
             </section>
 
@@ -133,7 +133,7 @@ export default function TermsPage() {
             <section>
               <h2 className="text-2xl font-heading font-bold text-orange-600 mb-3">Indemnification</h2>
               <p>
-                You agree to indemnify and hold harmless Restaurant Supplies Direct, Shure Hospitality Wholesale, and their officers, directors, employees, and agents from any claims, damages, losses, or expenses arising from your use of our services or violation of these terms.
+                You agree to indemnify and hold harmless Restaurant Equipment Direct, Shure Hospitality Wholesale, and their officers, directors, employees, and agents from any claims, damages, losses, or expenses arising from your use of our services or violation of these terms.
               </p>
             </section>
 

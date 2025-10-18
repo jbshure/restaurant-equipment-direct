@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: "Eco-Friendly Restaurant Supplies | Compostable & Sustainable",
     description: "Sustainable restaurant packaging - compostable containers, biodegradable cups, eco-friendly supplies.",
     type: "website",
-    siteName: "Restaurant Supplies Direct",
+    siteName: "Restaurant Equipment Direct",
   },
   twitter: {
     card: "summary_large_image",

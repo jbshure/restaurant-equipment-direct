@@ -374,7 +374,7 @@ export default function CoffeeShopCupsLidsGuide() {
 
               <h3 className="text-xl font-heading font-semibold text-ink mb-2 mt-6">4. Work with Wholesale Suppliers</h3>
               <p>
-                Buying direct from wholesalers like Restaurant Supplies Direct saves 20-40% compared to retail foodservice suppliers.
+                Buying direct from wholesalers like Restaurant Equipment Direct saves 20-40% compared to retail foodservice suppliers.
               </p>
 
               <h3 className="text-xl font-heading font-semibold text-ink mb-2 mt-6">5. Don't Sacrifice Quality on Customer-Facing Items</h3>

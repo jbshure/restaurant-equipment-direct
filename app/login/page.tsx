@@ -4,8 +4,8 @@ import { LogIn } from "lucide-react";
 import Header from "@/components/Header";
 
 export const metadata: Metadata = {
-  title: "Login | Restaurant Supplies Direct",
-  description: "Sign in to your Restaurant Supplies Direct account to manage orders, track shipments, and access wholesale pricing.",
+  title: "Login | Restaurant Equipment Direct",
+  description: "Sign in to your Restaurant Equipment Direct account to manage orders, track shipments, and access wholesale pricing.",
   robots: "noindex, nofollow",
 };
 

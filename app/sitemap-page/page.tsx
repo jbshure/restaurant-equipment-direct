@@ -5,8 +5,8 @@ import Link from "next/link";
 import { Package, FileText, Building2, HelpCircle } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Sitemap | Restaurant Supplies Direct",
-  description: "Browse all pages on Restaurant Supplies Direct. Find restaurant supplies, packaging, custom printing, and more.",
+  title: "Sitemap | Restaurant Equipment Direct",
+  description: "Browse all pages on Restaurant Equipment Direct. Find restaurant supplies, packaging, custom printing, and more.",
 };
 
 export default function SitemapPage() {
@@ -20,7 +20,7 @@ export default function SitemapPage() {
             Sitemap
           </h1>
           <p className="text-ink-muted mb-12 max-w-2xl">
-            Browse all pages and resources available on Restaurant Supplies Direct.
+            Browse all pages and resources available on Restaurant Equipment Direct.
           </p>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">

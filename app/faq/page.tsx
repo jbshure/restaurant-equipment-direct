@@ -4,7 +4,7 @@ import Footer from "@/components/Footer";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "FAQ - Frequently Asked Questions | Restaurant Supplies Direct",
+  title: "FAQ - Frequently Asked Questions | Restaurant Equipment Direct",
   description: "Common questions about our restaurant supplies, ordering, shipping, custom printing, and wholesale programs.",
 };
 

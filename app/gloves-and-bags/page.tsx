@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: "Disposable Gloves & Trash Bags Wholesale",
     description: "Wholesale food service gloves and commercial trash bags. Bulk pricing on nitrile, vinyl, and latex gloves.",
     type: "website",
-    siteName: "Restaurant Supplies Direct",
+    siteName: "Restaurant Equipment Direct",
   },
   twitter: {
     card: "summary_large_image",
@@ -114,7 +114,7 @@ export default function GlovesAndBagsPage() {
         {/* SEO Content Block */}
         <div className="prose prose-lg max-w-none mb-12">
           <h2 className="text-3xl font-heading font-bold text-ink mb-4">
-            Why Choose Restaurant Supplies Direct for Wholesale Gloves & Bags?
+            Why Choose Restaurant Equipment Direct for Wholesale Gloves & Bags?
           </h2>
           <p className="text-ink-muted mb-6">
             Every food service operation needs reliable <strong>disposable gloves wholesale</strong> and <strong>trash bags bulk</strong> suppliers. We provide FDA-approved <strong>food service gloves</strong> in nitrile, vinyl, and latex materials, plus heavy-duty commercial trash bags — all at wholesale prices with fast nationwide shipping.

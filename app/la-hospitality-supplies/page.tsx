@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: "Restaurant Supplies Los Angeles | Powered by Shure Hospitality Wholesale",
     description: "Fast local delivery of restaurant packaging and disposables across Los Angeles. Wholesale and custom printing.",
     type: "website",
-    siteName: "Restaurant Supplies Direct",
+    siteName: "Restaurant Equipment Direct",
     locale: "en_US",
   },
   twitter: {

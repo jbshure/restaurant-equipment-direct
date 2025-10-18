@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 import { Truck, Package, DollarSign, Clock, Award, CheckCircle, Zap } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Food Truck Supplies: Complete Starter Packs | Restaurant Supplies Direct",
+  title: "Food Truck Supplies: Complete Starter Packs | Restaurant Equipment Direct",
   description: "Everything your food truck needs: takeout containers, cups, napkins, gloves, and more. Wholesale pricing, fast shipping, and mobile-friendly packaging. Free samples available.",
   keywords: ["food truck supplies", "food truck disposables", "mobile food service", "takeout containers bulk", "food truck startup supplies", "street food packaging"],
 };
@@ -81,7 +81,7 @@ export default function FoodTrucksPage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-3xl sm:text-4xl font-heading font-bold text-ink mb-6">
-                Why Food Truck Owners Choose Restaurant Supplies Direct
+                Why Food Truck Owners Choose Restaurant Equipment Direct
               </h2>
               <div className="space-y-6">
                 <div className="flex gap-4">

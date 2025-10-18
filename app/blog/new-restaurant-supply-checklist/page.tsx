@@ -413,7 +413,7 @@ export default function NewRestaurantSupplyChecklist() {
             <section>
               <h2 className="text-2xl font-heading font-bold text-ink mb-3">Where to Buy: Wholesale vs. Retail</h2>
               <div className="bg-gray-50 p-6 rounded-xl border border-border my-4">
-                <p className="font-semibold text-ink mb-3">Wholesale suppliers (like Restaurant Supplies Direct):</p>
+                <p className="font-semibold text-ink mb-3">Wholesale suppliers (like Restaurant Equipment Direct):</p>
                 <ul className="list-disc pl-6 space-y-2">
                   <li><strong>Pros:</strong> 20-40% cheaper, larger selection, bulk pricing, direct from source</li>
                   <li><strong>Cons:</strong> Minimum order quantities, shipping time</li>

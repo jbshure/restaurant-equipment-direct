@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: "Shop Restaurant Supplies | Bulk Wholesale Pricing",
     description: "Browse wholesale restaurant disposables with bulk pricing and fast shipping.",
     type: "website",
-    siteName: "Restaurant Supplies Direct",
+    siteName: "Restaurant Equipment Direct",
   },
   twitter: {
     card: "summary_large_image",

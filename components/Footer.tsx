@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div>
-            <h3 className="font-heading font-bold text-lg mb-4">Restaurant Supplies Direct</h3>
+            <h3 className="font-heading font-bold text-lg mb-4">Restaurant Equipment Direct</h3>
             <p className="text-sm text-gray-300 mb-4">
               Premium restaurant disposables, packaging, and custom print — shipped direct from the source.
             </p>
@@ -173,7 +173,7 @@ export default function Footer() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-400">
             <p>
-              © {new Date().getFullYear()} Restaurant Supplies Direct. All rights reserved.
+              © {new Date().getFullYear()} Restaurant Equipment Direct. All rights reserved.
             </p>
             <div className="flex flex-wrap gap-4 md:gap-6 justify-center md:justify-end">
               <Link href="/privacy" className="hover:text-white transition-colors">Privacy</Link>

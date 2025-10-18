@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import { BreadcrumbSchema } from "@/components/SchemaMarkup";
 
 export const metadata: Metadata = {
-  title: "5 Ways to Reduce Restaurant Packaging Costs Without Sacrificing Quality | Restaurant Supplies Direct",
+  title: "5 Ways to Reduce Restaurant Packaging Costs Without Sacrificing Quality | Restaurant Equipment Direct",
   description: "Practical strategies to lower your packaging expenses while maintaining the quality your customers expect.",
   openGraph: {
     title: "5 Ways to Reduce Restaurant Packaging Costs Without Sacrificing Quality",

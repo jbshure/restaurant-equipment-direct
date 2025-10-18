@@ -1,4 +1,4 @@
-# Restaurant Supplies Direct - Launch Checklist
+# Restaurant Equipment Direct - Launch Checklist
 
 ## ✅ COMPLETED - Ready to Launch
 

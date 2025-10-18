@@ -5,18 +5,18 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "About Us | Restaurant Supplies Direct",
-  description: "Learn about Restaurant Supplies Direct and our partnership with Shure Hospitality Wholesale. Quality restaurant supplies shipped direct from the source.",
+  title: "About Us | Restaurant Equipment Direct",
+  description: "Learn about Restaurant Equipment Direct and our partnership with Shure Hospitality Wholesale. Quality restaurant supplies shipped direct from the source.",
   keywords: ["about restaurant supplies direct", "restaurant supply distributor", "shure hospitality wholesale"],
   openGraph: {
-    title: "About Us | Restaurant Supplies Direct",
-    description: "Learn about Restaurant Supplies Direct and our partnership with Shure Hospitality Wholesale. Quality supplies shipped direct.",
+    title: "About Us | Restaurant Equipment Direct",
+    description: "Learn about Restaurant Equipment Direct and our partnership with Shure Hospitality Wholesale. Quality supplies shipped direct.",
     type: "website",
-    siteName: "Restaurant Supplies Direct",
+    siteName: "Restaurant Equipment Direct",
   },
   twitter: {
     card: "summary_large_image",
-    title: "About Us | Restaurant Supplies Direct",
+    title: "About Us | Restaurant Equipment Direct",
     description: "Quality restaurant supplies shipped direct from the source.",
   },
   alternates: {
@@ -30,10 +30,10 @@ const faqSchema = {
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "How long has Restaurant Supplies Direct been in business?",
+      "name": "How long has Restaurant Equipment Direct been in business?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Restaurant Supplies Direct is a division of Shure Hospitality Wholesale, which has been serving the hospitality industry for decades. RSD was launched to bring institutional-quality supplies to independent operators through modern e-commerce."
+        "text": "Restaurant Equipment Direct is a division of Shure Hospitality Wholesale, which has been serving the hospitality industry for decades. RSD was launched to bring institutional-quality supplies to independent operators through modern e-commerce."
       }
     },
     {
@@ -80,7 +80,7 @@ export default function AboutPage() {
             Powered by Shure Hospitality Wholesale
           </div>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-heading font-bold text-ink mb-6 leading-tight">
-            About Restaurant Supplies Direct
+            About Restaurant Equipment Direct
           </h1>
           <p className="text-xl text-ink-muted mb-12">
             Making premium hospitality packaging and restaurant supplies accessible to independent operators nationwide.
@@ -89,7 +89,7 @@ export default function AboutPage() {
           <div className="prose prose-lg max-w-none">
             <h2 className="text-3xl font-heading font-bold text-ink mb-4">Our Story</h2>
             <p className="text-ink-muted mb-6">
-              Restaurant Supplies Direct was created to solve a simple problem: independent restaurants and small hospitality businesses deserve the same access to quality supplies and wholesale pricing as large restaurant groups.
+              Restaurant Equipment Direct was created to solve a simple problem: independent restaurants and small hospitality businesses deserve the same access to quality supplies and wholesale pricing as large restaurant groups.
             </p>
             <p className="text-ink-muted mb-6">
               While the big players had dedicated distributors and account reps, smaller operators were left paying retail prices at local supply shops or navigating confusing online marketplaces.
@@ -103,7 +103,7 @@ export default function AboutPage() {
                 Backed by Shure Hospitality Wholesale
               </h3>
               <p className="text-ink-muted mb-4">
-                Restaurant Supplies Direct is powered by <strong>Shure Hospitality Wholesale</strong>, a Los Angeles-based distributor with decades of experience serving premier hospitality brands.
+                Restaurant Equipment Direct is powered by <strong>Shure Hospitality Wholesale</strong>, a Los Angeles-based distributor with decades of experience serving premier hospitality brands.
               </p>
               <p className="text-ink-muted mb-6">
                 Through this partnership, we combine national buying power with fast, reliable direct shipping — giving you access to the same suppliers and pricing that serve leading restaurant groups, hotels, and entertainment venues.
@@ -230,10 +230,10 @@ export default function AboutPage() {
             <div className="space-y-6 mb-12">
               <div className="bg-white p-6 rounded-lg border-2 border-border shadow-sm">
                 <h3 className="text-lg font-heading font-semibold text-ink mb-2">
-                  How long has Restaurant Supplies Direct been in business?
+                  How long has Restaurant Equipment Direct been in business?
                 </h3>
                 <p className="text-ink-muted">
-                  Restaurant Supplies Direct is a division of Shure Hospitality Wholesale, which has been serving the hospitality industry for decades. RSD was launched to bring institutional-quality supplies to independent operators through modern e-commerce.
+                  Restaurant Equipment Direct is a division of Shure Hospitality Wholesale, which has been serving the hospitality industry for decades. RSD was launched to bring institutional-quality supplies to independent operators through modern e-commerce.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg border-2 border-border shadow-sm">

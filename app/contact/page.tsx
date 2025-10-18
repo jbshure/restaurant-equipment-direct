@@ -6,18 +6,18 @@ import Footer from "@/components/Footer";
 import ContactForm from "@/components/ContactForm";
 
 export const metadata: Metadata = {
-  title: "Contact Us | Restaurant Supplies Direct",
+  title: "Contact Us | Restaurant Equipment Direct",
   description: "Get in touch for quotes, bulk orders, custom printing, or wholesale programs. Fast response times and dedicated support.",
   keywords: ["contact restaurant supplies", "bulk order quote", "restaurant supply customer service"],
   openGraph: {
-    title: "Contact Us | Restaurant Supplies Direct",
+    title: "Contact Us | Restaurant Equipment Direct",
     description: "Get in touch for quotes, bulk orders, custom printing, or wholesale programs. Fast response and dedicated support.",
     type: "website",
-    siteName: "Restaurant Supplies Direct",
+    siteName: "Restaurant Equipment Direct",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Contact Us | Restaurant Supplies Direct",
+    title: "Contact Us | Restaurant Equipment Direct",
     description: "Get in touch for quotes, bulk orders, custom printing, or wholesale programs.",
   },
   alternates: {
@@ -197,7 +197,7 @@ export default function ContactPage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="prose prose-lg max-w-none">
             <h2 className="text-3xl font-heading font-bold text-ink mb-6">
-              How to Contact Restaurant Supplies Direct
+              How to Contact Restaurant Equipment Direct
             </h2>
             <p className="text-ink-muted mb-6">
               Whether you're placing your first order or managing supplies for multiple locations, our team is here to help. We offer multiple ways to connect based on your needs and timeline.

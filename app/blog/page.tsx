@@ -5,7 +5,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Restaurant Supply Tips & Guides | Restaurant Supplies Direct Blog",
+  title: "Restaurant Supply Tips & Guides | Restaurant Equipment Direct Blog",
   description: "Expert guides on choosing restaurant disposables, packaging tips, sustainability in food service, and industry insights.",
   openGraph: {
     title: "Restaurant Supply Tips & Guides",
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
 const blogPosts = [
   {
     slug: "rsd-vs-webstaurantstore",
-    title: "Restaurant Supplies Direct vs WebstaurantStore: Honest Comparison",
+    title: "Restaurant Equipment Direct vs WebstaurantStore: Honest Comparison",
     excerpt: "Detailed comparison of two restaurant supply approaches: specialized disposables expert vs. broad marketplace. Find the best fit for your business.",
     category: "Comparison",
     readTime: "11 min read",

@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import { BreadcrumbSchema } from "@/components/SchemaMarkup";
 
 export const metadata: Metadata = {
-  title: "Essential Supplies Checklist for Food Trucks | Restaurant Supplies Direct",
+  title: "Essential Supplies Checklist for Food Trucks | Restaurant Equipment Direct",
   description: "Complete list of disposables and packaging supplies every food truck needs to operate efficiently.",
   openGraph: {
     title: "Essential Supplies Checklist for Food Trucks",

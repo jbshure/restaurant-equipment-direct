@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: "Restaurant Tabletop Supplies & To-Go Accessories",
     description: "Wholesale cutlery, straws, condiment cups, and to-go accessories. Bulk pricing for restaurants.",
     type: "website",
-    siteName: "Restaurant Supplies Direct",
+    siteName: "Restaurant Equipment Direct",
   },
   twitter: {
     card: "summary_large_image",

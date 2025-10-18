@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 import { BreadcrumbSchema } from "@/components/SchemaMarkup";
 
 export const metadata: Metadata = {
-  title: "How to Choose the Right Takeout Containers | Restaurant Supplies Direct",
+  title: "How to Choose the Right Takeout Containers | Restaurant Equipment Direct",
   description: "Complete guide to selecting the best takeout containers for your restaurant. Compare materials, sizes, costs, and eco-friendly options.",
   openGraph: {
     title: "How to Choose the Right Takeout Containers",

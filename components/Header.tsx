@@ -15,13 +15,13 @@ export default function Header() {
         <Link href="/" className="flex items-center gap-2">
           <Image
             src="/logo-icon.svg"
-            alt="Restaurant Supplies Direct"
+            alt="Restaurant Equipment Direct"
             width={40}
             height={40}
             priority
           />
           <h2 className="text-lg sm:text-xl font-heading font-bold text-ink">
-            Restaurant Supplies Direct
+            Restaurant Equipment Direct
           </h2>
         </Link>
 

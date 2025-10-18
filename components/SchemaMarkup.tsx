@@ -74,7 +74,7 @@ export function WebSiteSchema() {
   const schema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "Restaurant Supplies Direct",
+    "name": "Restaurant Equipment Direct",
     "url": "https://restaurantsuppliesdirect.com",
     "potentialAction": {
       "@type": "SearchAction",
@@ -98,7 +98,7 @@ export function AggregateRatingSchema() {
   const schema = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "Restaurant Supplies Direct",
+    "name": "Restaurant Equipment Direct",
     "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.8",
