@@ -13,9 +13,9 @@ export default function ProductSchema({
   description,
   price,
   category,
-  image = "https://www.restaurantsuppliesdirect.com/logo-full.svg",
+  image = "https://restaurantequipment-direct.com/logo-full.svg",
   sku,
-  brand = "Restaurant Supplies Direct"
+  brand = "Restaurant Equipment Direct"
 }: ProductSchemaProps) {
   const schema = {
     "@context": "https://schema.org",

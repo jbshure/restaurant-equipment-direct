@@ -120,10 +120,10 @@ export function OrganizationSchema() {
   const schema = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "Restaurant Supplies Direct",
-    "url": "https://restaurantsuppliesdirect.com",
-    "logo": "https://restaurantsuppliesdirect.com/logo-full.svg",
-    "description": "Wholesale restaurant disposables, takeout containers, and custom printed packaging shipped direct from the source.",
+    "name": "Restaurant Equipment Direct",
+    "url": "https://restaurantequipment-direct.com",
+    "logo": "https://restaurantequipment-direct.com/logo-full.svg",
+    "description": "Commercial kitchen equipment and restaurant smallwares at wholesale prices shipped direct from manufacturers.",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Los Angeles",
@@ -170,14 +170,14 @@ export function BlogPostSchema({
     "dateModified": datePublished,
     "author": {
       "@type": "Organization",
-      "name": "Restaurant Supplies Direct"
+      "name": "Restaurant Equipment Direct"
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Restaurant Supplies Direct",
+      "name": "Restaurant Equipment Direct",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://restaurantsuppliesdirect.com/logo-full.svg"
+        "url": "https://restaurantequipment-direct.com/logo-full.svg"
       }
     },
     "url": url,
