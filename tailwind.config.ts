@@ -18,16 +18,16 @@ export default {
         ink: "#0F172A",
         "ink-muted": "#334155",
 
-        // Brand Colors (RED Equipment - Red instead of Orange)
+        // Brand Colors (RED Equipment - Steel Gray for industrial/equipment feel)
         brand: {
           blue: "#003D7A",
           "blue-light": "#0052A3",
           "blue-dark": "#002952",
           "blue-50": "#E6EEF7",
-          orange: "#DC2626", // Red for RED Equipment
-          "orange-light": "#EF4444",
-          "orange-dark": "#B91C1C",
-          "orange-50": "#FEE2E2",
+          orange: "#475569", // Steel Gray for equipment/industrial
+          "orange-light": "#64748B",
+          "orange-dark": "#334155",
+          "orange-50": "#F1F5F9",
         },
 
         // Legacy aliases (keep for compatibility)
@@ -38,9 +38,9 @@ export default {
         },
 
         accent: {
-          50: "#FEE2E2",
-          500: "#DC2626",
-          600: "#B91C1C",
+          50: "#F1F5F9",
+          500: "#475569",
+          600: "#334155",
         },
 
         // Feedback

@@ -1,12 +1,12 @@
 <svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Red hexagon with equipment icon -->
-  <path d="M256 32L448 144V368L256 480L64 368V144L256 32Z" fill="#DC2626"/>
+  <!-- Steel Gray hexagon with equipment icon -->
+  <path d="M256 32L448 144V368L256 480L64 368V144L256 32Z" fill="#475569"/>
   <!-- Inner diamond cutout -->
   <path d="M256 120L360 180V300L256 360L152 300V180L256 120Z" fill="white"/>
   <!-- Equipment Icon - Oven/Range (centered) -->
-  <rect x="200" y="188" width="112" height="120" rx="8" fill="#DC2626"/>
+  <rect x="200" y="188" width="112" height="120" rx="8" fill="#475569"/>
   <rect x="216" y="204" width="80" height="88" rx="4" fill="white"/>
-  <circle cx="236" cy="232" r="8" fill="#DC2626"/>
-  <circle cx="276" cy="232" r="8" fill="#DC2626"/>
-  <rect x="216" y="256" width="80" height="24" rx="4" fill="#DC2626"/>
+  <circle cx="236" cy="232" r="8" fill="#475569"/>
+  <circle cx="276" cy="232" r="8" fill="#475569"/>
+  <rect x="216" y="256" width="80" height="24" rx="4" fill="#475569"/>
 </svg>
